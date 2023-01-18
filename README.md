@@ -40,6 +40,9 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
+![Screenshot of Election_Analysis_challenge](https://github.com/BlazeMedina/Election_Analysis/blob/main/analysis/Election_Analysis.png)
+
+
 ## Election-Audit Summary
 With some modification, this script can be used for any election.  You can show the total number and percentage of votes from individual counties for each candidate.  And you can also summarize the candidates results by show percentage of votes they earned per county. 
     
